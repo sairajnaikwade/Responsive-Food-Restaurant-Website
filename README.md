@@ -49,4 +49,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Replace `yourusername` with your actual GitHub username. This README provides a comprehensive overview of your project, including its features, technologies used, and how to get started.
+Replace `sairajnaikwade` with your actual GitHub username. This README provides a comprehensive overview of your project, including its features, technologies used, and how to get started.
