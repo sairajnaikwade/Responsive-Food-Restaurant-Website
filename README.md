@@ -47,5 +47,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Inspiration from various online tutorials and resources.
 
 ---
-
-Replace `sairajnaikwade` with your actual GitHub username. This README provides a comprehensive overview of your project, including its features, technologies used, and how to get started.
