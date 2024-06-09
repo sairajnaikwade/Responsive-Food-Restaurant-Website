@@ -35,7 +35,7 @@ Explore the various sections to see the interactive features. Customize and expa
 ## Screenshots
 
 ### Home Page
-<img src="Images/Output Images/Home.png" height=400 width=400>
+<img src="Images/Output Images/Homepage.png" height=400 width=400>
 
 ### Menu Page
 <img src="" height=400 width=400>
