@@ -35,13 +35,13 @@ Explore the various sections to see the interactive features. Customize and expa
 ## Screenshots
 
 ### Home Page
-![Home Page](file:///E:/food%20website/index.html#home)
+<img src="Images/Output Images/Home.png" height=400 width=400>
 
 ### Menu Page
-![Menu Page](screenshots/menu.png)
+<img src="" height=400 width=400>
 
 ### Popular Dishes
-![Popular Dishes](screenshots/popular_dishes.png)
+<img src="" height=400 width=400>
 
 ## Contributing
 
