@@ -1,9 +1,8 @@
-
 ---
 
 # TastyBites
 
-TastyBites is a responsive restaurant website project featuring a dynamic home page, interactive menu, popular dishes, and easy navigation. Built with HTML5, CSS3, and Font Awesome for modern design and functionality. Ideal for showcasing your culinary offerings online.
+TastyBites is a responsive restaurant website project featuring a dynamic home page, interactive menu, popular dishes, and easy navigation. Built with HTML5, CSS3, and Font Awesome for modern design and functionality, it is ideal for showcasing your culinary offerings online.
 
 ## Features
 
@@ -27,11 +26,22 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    git clone https://github.com/yourusername/TastyBites.git
    ```
-2. **Open the index.html file** in your preferred web browser to view the website.
+2. **Open the `index.html` file** in your preferred web browser to view the website.
 
 ## Usage
 
 Explore the various sections to see the interactive features. Customize and expand upon this project as you see fit.
+
+## Screenshots
+
+### Home Page
+![Home Page](file:///E:/food%20website/index.html#home)
+
+### Menu Page
+![Menu Page](screenshots/menu.png)
+
+### Popular Dishes
+![Popular Dishes](screenshots/popular_dishes.png)
 
 ## Contributing
 
@@ -43,7 +53,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
-- Font Awesome for the icons.
+- **Font Awesome** for the icons.
 - Inspiration from various online tutorials and resources.
 
 ---
