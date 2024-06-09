@@ -1,5 +1,3 @@
----
-
 # TastyBites
 
 TastyBites is a responsive restaurant website project featuring a dynamic home page, interactive menu, popular dishes, and easy navigation. Built with HTML5, CSS3, and Font Awesome for modern design and functionality, it is ideal for showcasing your culinary offerings online.
@@ -35,13 +33,13 @@ Explore the various sections to see the interactive features. Customize and expa
 ## Screenshots
 
 ### Home Page
-![Home Page](file:///E:/food%20website/index.html#home)
+<img src="Images/Homepage.png" height=250 width=400>
 
 ### Menu Page
-![Menu Page](screenshots/menu.png)
+<img src="Images/Menu.png" height=250 width=400>
 
 ### Popular Dishes
-![Popular Dishes](screenshots/popular_dishes.png)
+<img src="Images/Popular.png" height=250 width=400>
 
 ## Contributing
 
