@@ -53,3 +53,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - **Font Awesome** for the icons.
 - Inspiration from various online tutorials and resources.
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
